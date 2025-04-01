@@ -23,7 +23,7 @@ The project is built using the following technologies:
 - **Spring Data JPA** - ORM framework for database interaction
 - **H2 Database** - In-memory database for development
 - **SQL** - Query language for handling database operations
-- **Thymeleaf & HTML** - Frontend for adding new businesses
+- **HTML & JavaScript** - Frontend for adding new businesses
 - **Postman** - API testing tool
 - **Maven** - Dependency management
 
@@ -67,7 +67,7 @@ To test the API, import the **Postman collection** from the project folder.
 
 ---
 
-## 🌐 Frontend (Thymeleaf & HTML)
+## 🌐 Frontend (HTML & JavaScript)
 The project includes an HTML page that allows users to **add new businesses** through a form. This form interacts with the backend to persist business data in the H2 database.
 
 ---
