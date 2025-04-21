@@ -1,7 +1,8 @@
 # Nkomazi Businesses
 
 ## 📌 Project Overview
-This project is a **Spring Boot** application that performs **CRUD (Create, Read, Update, Delete) operations** on a database of businesses located in **Nkomazi, Mpumalanga**. The goal of this project is to allow users to manage business listings efficiently. Users can:
+This project is a **Spring Boot** application that performs **CRUD (Create, Read, Update, Delete) operations** on a database of businesses located in **Nkomazi, Mpumalanga**. The goal of this project is to allow users to manage business listings efficiently.
+Users can:
 
 - Get a list of all businesses.
 - Retrieve a business by its ID.
