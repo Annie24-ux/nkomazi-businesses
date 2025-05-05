@@ -4,7 +4,7 @@
 This project is a **Spring Boot** application that performs **CRUD (Create, Read, Update, Delete) operations** on a database of businesses located in **Nkomazi, Mpumalanga**. The goal of this project is to allow users to manage business listings efficiently.
 Users can:
 
-- Get a list of all businesses.
+- Get a list of all businesses based in the Nkomazi area.
 - Retrieve a business by its ID.
 - Add a new business.
 - Update an existing business.
